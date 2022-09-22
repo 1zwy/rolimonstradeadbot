@@ -1,4 +1,7 @@
-// custom shit bot, go away... monkey
+// custom badly coded bot, this is nomt for u!!! go away.
+
+var win = window 
+
 setTimeout(function(){
   win.document.getElementsByClassName("px-0 mb-3 shadow_md_35 border_md shift_up_sm mix_item")[0].click()
 	win.document.getElementsByClassName("px-0 mb-3 shadow_md_35 border_md shift_up_sm mix_item")[1].click()
