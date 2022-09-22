@@ -1,4 +1,6 @@
-// custom badly coded bot, this is nomt for u!!! go away.
+// custom badly coded trade ad bot for rolimons, this is nomt for u!!! go away.
+
+console.log("loaded, should be printed on rolimons")
 
 var win = window 
 
